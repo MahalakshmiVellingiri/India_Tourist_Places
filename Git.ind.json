@@ -1,0 +1,32 @@
+[
+    {
+        "p_rel_url" : "MahalakshmiVellingiri/India_Tourist_Places/refs/heads/main/India's_Tourist_Places.csv",
+        "p_sink_folder" : "India's_Tourist_Places",
+        "p_sink_file" : "India's_Tourist_Places.csv"
+    },
+    {
+        "p_rel_url" : "MahalakshmiVellingiri/India_Tourist_Places/refs/heads/main/Visiting_Info.csv",
+        "p_sink_folder" : "Visiting_Info",
+        "p_sink_file" : "Visiting_Info.csv"
+    },
+    {
+        "p_rel_url" : "MahalakshmiVellingiri/India_Tourist_Places/refs/heads/main/Entry_Fees.csv",
+        "p_sink_folder" : "Entry_Fees",
+        "p_sink_file" : "Entry_Fees.csv"
+    },
+    {
+        "p_rel_url" : "MahalakshmiVellingiri/India_Tourist_Places/refs/heads/main/Facilities_and_Rules.csv",
+        "p_sink_folder" : "Facilities_and_Rules",
+        "p_sink_file" : "Facilities_and_Rules.csv"
+    },
+    {
+        "p_rel_url" : "MahalakshmiVellingiri/India_Tourist_Places/refs/heads/main/Nearby_Connectivity.csv",
+        "p_sink_folder" : "Nearby_Connectivity",
+        "p_sink_file" : "Nearby_Connectivity.csv"
+    },
+    {
+        "p_rel_url" : "MahalakshmiVellingiri/India_Tourist_Places/refs/heads/main/Nearby_Services.csv",
+        "p_sink_folder" : "Nearby_Services",
+        "p_sink_file" : "Nearby_Services.csv"
+    }
+]
